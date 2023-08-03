@@ -66,6 +66,4 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
-Replace the placeholders with actual information about your project. The template covers the project's introduction, features, technologies used, setup instructions, usage guide, contribution guidelines, and licensing information. Make sure to include screenshots of your application in the appropriate section.
