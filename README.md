@@ -60,10 +60,6 @@ Github User Finder is a web application created using Flask, a Python web framew
 2. Click the "Search" button to view the user's profile information and repositories.
 3. If the user exists, their profile and repository information will be displayed. Otherwise, an error message will appear.
 
-## Screenshots
-
-Insert some screenshots of your web application here.
-
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or a pull request.
